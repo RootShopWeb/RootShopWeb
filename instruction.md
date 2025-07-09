@@ -25,7 +25,10 @@ vless://<secret>@<secret>:443?encryption=none&flow=xtls-rprx-vision&security=rea
 - **Копируйте ссылку полностью, без пробелов**
 - **Не изменяйте содержимое ссылки**
 - **Храните ссылку в надежном месте**
+
+
 ## Установка клиента и включение Proxy
+
 ### Android
 1. Установите [Hiddify](https://play.google.com/store/apps/details?id=app.hiddify.com&pcampaignid=web_share)
 2. Скопируйте полностью вашу VLESS-ссылку из письма.
